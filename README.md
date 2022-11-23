@@ -1,8 +1,8 @@
-# Auxilium
+# Sign Language To Text Conversion
 
-This repository is our submission to the Code Odyssey hackathon happening in Feb 2022. 
+This repository is our submission to the minor project of our B.Tech 7th semester.
 
-Trained Deeplearning Model - [ASL-Recognition](https://github.com/Hrushi11/Frigus-Neurons_Auxilium/blob/main/American_Sign_Language_Recognition.ipynb)
+Trained Deeplearning Model - [ASL-Recognition]
 
 Communication is a very important skill. It helps to exchange thoughts, share experiences and learn new things. Looking at today's 
 fast moving world networking and communication becomes very essential.
