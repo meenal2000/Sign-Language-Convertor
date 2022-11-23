@@ -23,7 +23,7 @@ def itch(img, x, y, w, h, color=(0, 0, 0)):
 	cv2.rectangle(img, (x, y), (w, h), thickness=cv2.FILLED, color=color)
 
 	return img
-
+# Prediction Function
 def Pred(img, previous, message, save=False):
 	x, y, w, h = 0, 220, 200, 440
 	_img_ = img.copy()
