@@ -12,4 +12,4 @@ the competition. The problem with them is not about communicating with each othe
 
 This is where we hope to come in and become an intermediate, a translator to help the world understand these people.
 
-![IMG](https://github.com/Hrushi11/Frigus-Neurons_Auxilium/blob/main/assets/Auxilium.png?raw=true)
+![IMG](https://github.com/meenal2000/Sign-Language-Convertor/blob/master/assets/SignLanguage.jpeg?raw=true)
