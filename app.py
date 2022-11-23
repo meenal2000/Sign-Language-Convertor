@@ -57,7 +57,7 @@ def Pred(img, previous, message, save=False):
 	# 				fontScale=1.8, color=(255, 0, 255), thickness=2)
 
 	return img, message, pred_show
-
+# Image Transformation Function
 def transform(img):
 	cv2.rectangle(img, (0, 220), (200, 440), color=(0, 255, 0), thickness=2, lineType=1)
 
